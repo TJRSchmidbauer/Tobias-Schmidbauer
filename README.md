@@ -10,9 +10,10 @@
 
 ## 🔭 What I'm working on
 - 📄 High-quality LaTeX exam templates for the Bavarian Abitur (IQB-style)
-- 🤖 Self-hosted AI workflows with **n8n** + local LLMs (Ollama, OpenClaw)
-- 🧩 3D-printed physics teaching props via **OpenSCAD**
-- 🌐 Self-hosted stack: **Nextcloud · Ghost CMS · Overleaf · Portainer**
+- 🤖 Self-hosted AI workflows with **n8n** + local LLMs (Ollama, OpenClaw, Hermes)
+- 🧩 3D-printed physics teaching props via **OpenSCAD**, **FreeCAD** and **shapr3D**
+      -> https://makerworld.com/de/@Schmidbauer 
+- 🌐 Self-hosted stack: **Nextcloud · Ghost CMS · Overleaf · Minecraft · Portainer**
 
 ## 🧰 Tech Stack
 
@@ -31,10 +32,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TJRSchmidbauer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TJRSchmidbauer&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TJRSchmidbauer&theme=tokyonight&hide_border=true)
 
