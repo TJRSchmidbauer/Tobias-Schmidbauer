@@ -2,6 +2,7 @@
 
 🎓 Physics teacher @ Bavarian Gymnasium · ⚛️ Quantum mechanics enthusiast  
 🛠️ I build things with **LaTeX**, **Docker**, **Python** & **OpenSCAD**
+Only my opinion here
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TJRSchmidbauer&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/TJRSchmidbauer?style=social)](https://github.com/TJRSchmidbauer)
